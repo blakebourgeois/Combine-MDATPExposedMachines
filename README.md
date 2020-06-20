@@ -16,7 +16,7 @@ Save the reports from MDATP:
 2. Go to Threat and Vulnerability Management > Security Recommendations from the sidebar
 3. Under filters > Remediation type select whatever you want to look for. I usually leave out configuration change but there could be value in it
 4. Under filters > Status make sure it is only "active"
-5. Go through the results list and fine results you want to aggregate. For example, you might only want exploitable threats or something with a specific threshold of weaknesses. 
+5. Go through the results list and find results you want to aggregate. For example, you might only want exploitable threats or something with a specific threshold of weaknesses. 
 5a. Click the desired entry and hit "export" by the Exposed devices drop down
 5b. repeat for every security recommendation to whatever threshold is appropriate for your situation
 6. Make sure all the reports are in the $pwd folder.
